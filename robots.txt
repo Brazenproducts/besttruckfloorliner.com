@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://besttruckfloorliner.com/sitemap.xml
